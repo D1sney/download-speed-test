@@ -9,7 +9,7 @@
 ```bash
 git clone https://github.com/D1sney/download-speed-test.git
 cd download-speed-test
-python3 speed_test.py "https://example.org/"
+python3 speed_test.py "https://raw.githubusercontent.com/D1sney/download-speed-test/main/speed_test.py"
 ```
 
 Для замера на большом объёме данных подставьте прямую ссылку на крупный файл, например изображение или архив.
